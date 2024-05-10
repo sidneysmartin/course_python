@@ -20,3 +20,5 @@ roda o interpretador
 
 ### Exercícios de python
  - https://wiki.python.org.br/ListaDeExercicios
+
+ - https://wiki.python.org.br/EstruturaDeRepeticao
