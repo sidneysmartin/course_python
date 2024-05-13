@@ -22,3 +22,7 @@ roda o interpretador
  - https://wiki.python.org.br/ListaDeExercicios
 
  - https://wiki.python.org.br/EstruturaDeRepeticao
+
+
+## Complemento 
+- https://book.pythontips.com/en/latest/

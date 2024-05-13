@@ -6,4 +6,3 @@ tutorial and practice for deep learning in python.
 [GitHub](https://github.com/HuXn-WebDev/Zero-To-Monster-Python-Course/tree/main)
 
 [Python documentation](https://docs.python.org/3/)
- 
